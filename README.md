@@ -1,0 +1,2 @@
+# machine-learning-course
+This course aims to explore the approaches used to produce intelligent systems and gain a comprehensive understanding of many of the issues involved and give insight into the mechanisms that allow systems to learn. It will also investigate the deep learning approach to machine learning, introducing students to the concept of deep learning, common and developing algorithms, and associated technologies.
