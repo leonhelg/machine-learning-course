@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/leonhelgeland/opt/anaconda3/envs/lionvirtualenv/bin/python"
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.dataScience.jupyterServerURI": "local"
 }
