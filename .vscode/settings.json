@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\Conda-TF-Nightly-v2.4.0-GPU\\python.exe",
     "python.dataScience.jupyterServerURI": "local"
 }
